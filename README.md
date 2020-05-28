@@ -25,7 +25,7 @@ Step 6: Go to the virtual enviroment
       
 Step 7: Run following comman
 
-       pip install -m requirements.txt
+       pip install -r requirements.txt
       
 Step 8: Run the following command now
 
