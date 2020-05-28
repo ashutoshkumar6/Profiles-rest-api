@@ -23,11 +23,15 @@ Step 6: Go to the virtual enviroment
 
       source ~/env/bin/activate
       
-Step 7: Run the following command now
+Step 7: Run following comman
+
+       pip install -m requirements.txt
+      
+Step 8: Run the following command now
 
        python manage.py runserver 0.0.0.0:8000
        
-Step 8: http://127.0.0.1:8000/api/ type this in your chrome or firefox.       
+Step 9: http://127.0.0.1:8000/api/ type this in your chrome or firefox.       
    
          
         
